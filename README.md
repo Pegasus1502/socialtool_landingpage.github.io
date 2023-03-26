@@ -20,5 +20,5 @@ https://drive.google.com/file/d/1BP00VGmgQVkgyZfsjvMYlUrEd_yYfpU8/view?usp=share
 I'm a Android and React developer...
 
 
-![Logo](https://photos.app.goo.gl/C3B8jsHtKnxDaQCh9)
+![Logo](https://github.com/Pegasus1502/socialtool_landingpage.github.io/blob/e584eb24b3094ac5f68cfee6ab318ceb3139cb50/Logo%20(2).png)
 
